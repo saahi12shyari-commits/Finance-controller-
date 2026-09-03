@@ -1,0 +1,59 @@
+order_id,reference,amount,item_description,reconciled,reco_reason,predicted_gst_category,applied_gst_rate,correct_gst_rate,gst_ok
+ORD2001,REF1001,1079.61,Printed textbook,True,,Printed books,0,0,True
+ORD2002,REF1002,1005.83,LED bulb 9W,False,Missing on bank/settlement side,Electrical goods,12,12,True
+ORD2003,REF1003,415.39,Courier/freight charges,True,,Logistics services,0,18,False
+ORD2004,REF1004,5576.54,Two-wheeler helmet,True,,Safety gear,18,18,True
+ORD2005,REF1005,6908.74,Leather formal shoes,False,Amount mismatch of Rs 138.33,Footwear above 1000,18,18,True
+ORD2006,REF1006,1448.25,Leather formal shoes,False,Amount mismatch of Rs 47.08,Footwear above 1000,18,18,True
+ORD2007,REF1007,5191.11,Bluetooth earphones,True,,Consumer electronics,28,18,False
+ORD2008,REF1008,807.98,Software subscription 1yr,True,,Software services,18,18,True
+ORD2009,REF1009,4970.89,Bluetooth earphones,True,,Consumer electronics,5,18,False
+ORD2010,REF1010,7291.9,Bottled mineral water 1L,True,,Packaged drinking water,12,18,False
+ORD2011,REF1011,1508.16,Bluetooth earphones,True,,Consumer electronics,12,18,False
+ORD2012,REF1012,5561.1,A4 printing 100 pages,True,,Printing services,12,12,True
+ORD2013,REF1013,1514.41,Cotton kurta,True,,Apparel under 1000,5,5,True
+ORD2014,REF1014,4800.53,Two-wheeler helmet,True,,Safety gear,18,18,True
+ORD2015,REF1015,2062.55,Fresh vegetables crate,True,,Fresh produce,0,0,True
+ORD2016,REF1016,1911.71,Bottled mineral water 1L,True,,Packaged drinking water,18,18,True
+ORD2017,REF1017,4318.58,Printed textbook,True,,Printed books,0,0,True
+ORD2018,REF1018,6370.66,Cotton kurta,True,,Apparel under 1000,5,5,True
+ORD2019,REF1019,3484.99,Salon haircut service,False,Amount mismatch of Rs 158.18,Personal grooming services,18,18,True
+ORD2020,REF1020,543.42,Handmade jute bag,True,,Eco/handicraft goods,12,5,False
+ORD2021,REF1021,5130.02,Courier/freight charges,True,,Logistics services,18,18,True
+ORD2022,REF1022,2249.31,Wooden dining table,False,Missing on bank/settlement side,Furniture,18,18,True
+ORD2023,REF1023,1106.51,LED bulb 9W,True,,Electrical goods,12,12,True
+ORD2024,REF1024,1081.46,Notebook pack of 5,True,,Stationery/paper products,0,12,False
+ORD2025,REF1025,2349.3,LED bulb 9W,True,,Electrical goods,12,12,True
+ORD2026,REF1026,7418.83,Toned milk 1L pouch,True,,Fresh milk,0,0,True
+ORD2027,REF1027,1426.21,Mobile phone 128GB,True,,Mobile handsets,0,18,False
+ORD2028,REF1028,312.63,Gold chain 10g,True,,Jewellery,3,3,True
+ORD2029,REF1029,2149.43,Restaurant dine-in bill,True,,Restaurant services,5,5,True
+ORD2030,REF1030,6261.43,Bottled mineral water 1L,False,Amount mismatch of Rs 153.08,Packaged drinking water,5,18,False
+ORD2031,REF1031,1528.81,Gym membership monthly,True,,Fitness services,18,18,True
+ORD2032,REF1032,7906.43,Mobile phone 128GB,False,"Date mismatch of 3 day(s), likely settlement lag",Mobile handsets,18,18,True
+ORD2033,REF1033,8459.5,Software subscription 1yr,True,,Software services,18,18,True
+ORD2034,REF1034,1160.39,Health insurance premium,True,,Insurance services,0,18,False
+ORD2035,REF1035,5063.47,Cotton kurta,True,,Apparel under 1000,0,5,False
+ORD2036,REF1036,7327.96,Fresh vegetables crate,True,,Fresh produce,0,0,True
+ORD2037,REF1037,1938.88,Gold chain 10g,True,,Jewellery,3,3,True
+ORD2038,REF1038,4096.8,Salon haircut service,True,,Personal grooming services,18,18,True
+ORD2039,REF1039,959.37,Toned milk 1L pouch,True,,Fresh milk,0,0,True
+ORD2040,REF1040,602.33,LED bulb 9W,False,Amount mismatch of Rs 132.73,Electrical goods,12,12,True
+ORD2041,REF1041,6834.95,Notebook pack of 5,False,"Date mismatch of 5 day(s), likely settlement lag",Stationery/paper products,12,12,True
+ORD2042,REF1042,3672.71,Paracetamol strip 10 tabs,True,,Essential medicines,5,5,True
+ORD2043,REF1043,3850.14,Bottled mineral water 1L,False,Amount mismatch of Rs 202.60,Packaged drinking water,18,18,True
+ORD2044,REF1044,7130.83,Gym membership monthly,True,,Fitness services,18,18,True
+ORD2045,REF1045,3543.56,Laptop repair service,True,,IT/repair services,28,18,False
+ORD2046,REF1046,3314.43,Laptop repair service,True,,IT/repair services,18,18,True
+ORD2047,REF1047,2531.83,Health insurance premium,True,,Insurance services,18,18,True
+ORD2048,REF1048,5676.63,Gym membership monthly,False,"Date mismatch of 2 day(s), likely settlement lag",Fitness services,12,18,False
+ORD2049,REF1049,6293.41,Salon haircut service,False,Missing on bank/settlement side,Personal grooming services,18,18,True
+ORD2050,REF1050,4131.18,Salon haircut service,False,Missing on bank/settlement side,Personal grooming services,18,18,True
+ORD2051,REF1051,818.93,Wooden dining table,True,,Furniture,0,18,False
+ORD2052,REF1052,3521.53,Cotton kurta,True,,Apparel under 1000,5,5,True
+ORD2053,REF1053,834.56,Mobile recharge 599 plan,True,,Telecom services,18,18,True
+ORD2054,REF1054,1855.56,Leather formal shoes,True,,Footwear above 1000,18,18,True
+ORD2055,REF1055,5758.61,Paracetamol strip 10 tabs,True,,Essential medicines,5,5,True
+ORD2056,REF1056,227.78,Bottled mineral water 1L,True,,Packaged drinking water,18,18,True
+ORD2057,REF1057,4639.25,Bottled mineral water 1L,True,,Packaged drinking water,18,18,True
+ORD2058,REF1058,7491.91,Bottled mineral water 1L,True,,Packaged drinking water,18,18,True
